@@ -3,7 +3,7 @@
   "description": "Twitter authentication for connect apps",
   "main":        "./index",
   "author":      "David Dollar",
-  "version":     "0.0.1",
+  "version":     "0.1.0",
   "repository" : {
     "type": "git",
     "url":  "http://github.com/caolan/cookie-sessions.git"
