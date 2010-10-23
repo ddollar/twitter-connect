@@ -1,0 +1,20 @@
+{
+  "name":        "twitter-connect",
+  "description": "Twitter authentication for connect apps",
+  "main":        "./index",
+  "author":      "David Dollar",
+  "version":     "0.0.1",
+  "repository" : {
+    "type": "git",
+    "url":  "http://github.com/caolan/cookie-sessions.git"
+  },
+  "bugs": {
+    "web": "http://github.com/caolan/cookie-sessions/issues"
+  },
+  "licenses" : [
+    {
+      "type": "MIT",
+      "url":  "http://github.com/caolan/cookie-sessions/raw/master/LICENSE"
+    }
+  ]
+}
